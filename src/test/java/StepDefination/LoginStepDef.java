@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.cucumber.java.en.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class GreencartStepDef {
+public class LoginStepDef {
 
 	@Given("user is on the greencart page")
 	public void user_is_on_the_greencart_page() {
